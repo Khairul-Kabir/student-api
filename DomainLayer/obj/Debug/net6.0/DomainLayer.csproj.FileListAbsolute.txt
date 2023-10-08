@@ -1,0 +1,16 @@
+D:\Projects\StudentsAPI\DomainLayer\bin\Debug\net6.0\DomainLayer.deps.json
+D:\Projects\StudentsAPI\DomainLayer\bin\Debug\net6.0\DomainLayer.runtimeconfig.json
+D:\Projects\StudentsAPI\DomainLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\Projects\StudentsAPI\DomainLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\Projects\StudentsAPI\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.AssemblyReference.cache
+D:\Projects\StudentsAPI\DomainLayer\obj\Debug\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\StudentsAPI\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfoInputs.cache
+D:\Projects\StudentsAPI\DomainLayer\obj\Debug\net6.0\DomainLayer.AssemblyInfo.cs
+D:\Projects\StudentsAPI\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\Projects\StudentsAPI\DomainLayer\obj\Debug\net6.0\DomainLayer.dll
+D:\Projects\StudentsAPI\DomainLayer\obj\Debug\net6.0\refint\DomainLayer.dll
+D:\Projects\StudentsAPI\DomainLayer\obj\Debug\net6.0\DomainLayer.pdb
+D:\Projects\StudentsAPI\DomainLayer\obj\Debug\net6.0\DomainLayer.genruntimeconfig.cache
+D:\Projects\StudentsAPI\DomainLayer\obj\Debug\net6.0\ref\DomainLayer.dll
+D:\Projects\StudentsAPI\DomainLayer\obj\Debug\net6.0\DomainLayer.Properties.Resources.resources
+D:\Projects\StudentsAPI\DomainLayer\obj\Debug\net6.0\DomainLayer.csproj.GenerateResource.cache

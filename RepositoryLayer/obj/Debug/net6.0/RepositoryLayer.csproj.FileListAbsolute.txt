@@ -1,0 +1,17 @@
+D:\Projects\StudentsAPI\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+D:\Projects\StudentsAPI\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\Projects\StudentsAPI\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\Projects\StudentsAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\StudentsAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\Projects\StudentsAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+D:\Projects\StudentsAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Projects\StudentsAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+D:\Projects\StudentsAPI\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+D:\Projects\StudentsAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+D:\Projects\StudentsAPI\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+D:\Projects\StudentsAPI\RepositoryLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\Projects\StudentsAPI\RepositoryLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\Projects\StudentsAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\Projects\StudentsAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+D:\Projects\StudentsAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.Properties.Resources.resources
+D:\Projects\StudentsAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.GenerateResource.cache
