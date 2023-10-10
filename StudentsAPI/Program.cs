@@ -18,6 +18,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 
 builder.Services.AddScoped<ICustomService<Student>, StudentService>();
+builder.Services.AddScoped<ICustomService<UserOutOfOffice>, MySettingsService>();
 
 var app = builder.Build();
 

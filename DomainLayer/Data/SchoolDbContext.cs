@@ -18,6 +18,8 @@ public partial class SchoolDbContext : DbContext
 
     public virtual DbSet<Student> Students { get; set; }
 
+    public virtual DbSet<UserOutOfOffice> UserOutOfOffices { get; set; }
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
         => optionsBuilder.UseSqlServer("Data Source=KABIR;Initial Catalog=School;Integrated Security=True;Encrypt=false;TrustServerCertificate=true");
@@ -33,6 +35,15 @@ public partial class SchoolDbContext : DbContext
             entity.Property(e => e.Name).HasMaxLength(255);
             entity.Property(e => e.Phone).HasMaxLength(20);
             entity.Property(e => e.UpdatedDate).HasColumnType("datetime");
+        });
+
+        modelBuilder.Entity<UserOutOfOffice>(entity =>
+        {
+            entity.ToTable("UserOutOfOffice");
+
+            entity.Property(e => e.Description).HasMaxLength(512);
+            entity.Property(e => e.EndDate).HasColumnType("date");
+            entity.Property(e => e.StartDate).HasColumnType("date");
         });
 
         OnModelCreatingPartial(modelBuilder);

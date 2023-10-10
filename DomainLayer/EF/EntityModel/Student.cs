@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace DomainLayer.EF.EntityModel;
 
-public partial class Student:BaseEntity
+public partial class Student: BaseEntity
 {
     public int Id { get; set; }
 
